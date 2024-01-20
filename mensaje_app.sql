@@ -39,8 +39,8 @@ CREATE TABLE `mensaje` (
 --
 
 INSERT INTO `mensaje` (`id_mensaje`, `mensaje`, `autor_mensaje`, `fecha_mensaje`) VALUES
-(1, 'HOLA ACABO DE ACTUALIZAR ESTE MENSAJE MEDIANTE UN PROGRAMA', 'Ehmanuel', '2024-01-03 07:36:03'),
-(3, 'Creando para no tener vacia la BD', 'ehamnueñ28', '2024-01-03 07:38:30');
+(1, 'HOLA ACABO DE ACTUALIZAR ESTE MENSAJE MEDIANTE UN PROGRAMA', 'persona1', '2024-01-03 07:36:03'),
+(3, 'Creando para no tener vacia la BD', 'persona2', '2024-01-03 07:38:30');
 
 --
 -- Índices para tablas volcadas
