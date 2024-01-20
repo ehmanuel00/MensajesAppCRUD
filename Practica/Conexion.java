@@ -15,7 +15,6 @@ public class Conexion {
                 System.out.println("Parametro de conexion establecido");
             }
 
-
         }catch (SQLException e){
             System.out.println(e);
         }
